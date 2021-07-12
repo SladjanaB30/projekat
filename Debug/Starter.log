@@ -1,0 +1,13 @@
+﻿  main_application.c
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(196,10): warning C4101: 'str': unreferenced local variable
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(284,23): warning C4018: '<': signed/unsigned mismatch
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(297,23): warning C4018: '<': signed/unsigned mismatch
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(310,23): warning C4018: '<': signed/unsigned mismatch
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(457,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(470,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(477,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(483,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(489,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(495,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\main_application.c(501,20): warning C4047: '==': 'BaseType_t' differs in levels of indirection from 'void *'
+  Starter.vcxproj -> D:\predavanje\autoelektronika_fajlovivezbe\projekat\Debug\Starter.exe

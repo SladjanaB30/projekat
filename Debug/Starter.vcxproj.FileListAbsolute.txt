@@ -1,0 +1,4 @@
+C:\Users\Sladja\Downloads\osnovni-fajlovi-za-projekat\Debug\Starter.exe
+D:\predavanje\autoelektronika_fajlovivezbe\osnovni-fajlovi-za-projekat-izvorno,dodato hsw i x64 folder\Debug\Starter.exe
+D:\predavanje\autoelektronika_fajlovivezbe\osnovni-fajlovi-za-projekat-7.5-DRUGIZAD\Debug\Starter.exe
+D:\predavanje\autoelektronika_fajlovivezbe\projekat\Debug\Starter.exe
